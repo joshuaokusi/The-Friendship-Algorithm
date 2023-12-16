@@ -1,0 +1,22 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# Deep Learning
+keras
+
+# Natural Language Processing
+gensim
+spacy
+nltk
+
+# Image Processing
+opencv-python
+Pillow
+
+# Web Framework for API (if required)
+django
+fastapi
+
